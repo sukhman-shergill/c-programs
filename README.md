@@ -1,6 +1,6 @@
 # C Programs 👨‍💻
 
-This folder contains C programs written during my second semester at Punjab Technical University.
+This folder contains C programs written during my second semester at Chandigarh Group of Colleges.
 
 ## Topics Covered
 - Basics: Hello World, Input/Output
